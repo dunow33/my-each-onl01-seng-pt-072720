@@ -6,7 +6,7 @@ def my_each(array)
     i += 1
   end
   
-  array
+  puts array
 end
 
 my_each(["hi", "hello", "today", "please"]) do |i|
