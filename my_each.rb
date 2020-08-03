@@ -8,6 +8,6 @@ def my_each(array)
   end
 end
 
-my_each(["hi", "hello", "today", "please"]) do |i|
-  puts i
-end
+#my_each(["hi", "hello", "today", "please"]) do |i|
+#  puts i
+#end
